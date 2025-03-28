@@ -1,0 +1,26 @@
+{
+  "name": "settle-well-api",
+  "version": "1.0.0",
+  "description": "Settle well API repo",
+  "homepage": "https://github.com/msselizabeth/settle-well-api#readme",
+  "bugs": {
+    "url": "https://github.com/msselizabeth/settle-well-api/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msselizabeth/settle-well-api.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.13.0"
+  }
+}
